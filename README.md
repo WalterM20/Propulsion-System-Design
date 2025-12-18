@@ -13,7 +13,6 @@ This project focuses on the analytical design and performance evaluation of a ve
 
 ## 💻 Methodology
 * **Tools:** MATLAB / Excel / Analytical Calculation.
-* **Vehicle Class:** [Inserisci tipo veicolo, es. C-Segment Passenger Car / Light Commercial Vehicle].
 
 ## 📄 Documentation
 * **[Read the Full Project Report](Propulsion%20System%20Project.pdf)**
